@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "name": "Lorde",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Fêmea",
+    "meses": 13,
+    "localizacao": "Diamantina",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": true,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": true,
+      "hiv": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kael",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Fêmea",
+    "meses": 13,
+    "localizacao": "Diamantina",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": false,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": true,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": true,
+      "hiv": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "Milo",
+    "especie": "Gato",
+    "raca": "Siamês",
+    "genero": "Macho",
+    "meses": 9,
+    "localizacao": "Belo Horizonte",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": true,
+      "desparasitado": false
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": false,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 4,
+    "name": "Luna",
+    "especie": "Gato",
+    "raca": "Persa",
+    "genero": "Fêmea",
+    "meses": 24,
+    "localizacao": "São Paulo",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": true,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "Simba",
+    "especie": "Gato",
+    "raca": "Maine Coon",
+    "genero": "Macho",
+    "meses": 36,
+    "localizacao": "Curitiba",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": true,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "Zara",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Fêmea",
+    "meses": 7,
+    "localizacao": "Salvador",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": false,
+      "desparasitado": false
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": false,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": true,
+      "hiv": false
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bella",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Fêmea",
+    "meses": 18,
+    "localizacao": "Rio de Janeiro",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": true,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Max",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Macho",
+    "meses": 4,
+    "localizacao": "Fortaleza",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": false,
+      "desparasitado": false
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": true,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 9,
+    "name": "Chloe",
+    "especie": "Gato",
+    "raca": "Angorá",
+    "genero": "Fêmea",
+    "meses": 30,
+    "localizacao": "Porto Alegre",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": false,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "Oscar",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Macho",
+    "meses": 10,
+    "localizacao": "Manaus",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": false,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Mia",
+    "especie": "Gato",
+    "raca": "Bengal",
+    "genero": "Fêmea",
+    "meses": 16,
+    "localizacao": "Florianópolis",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": true,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 12,
+    "name": "Leo",
+    "especie": "Gato",
+    "raca": "Siamês",
+    "genero": "Macho",
+    "meses": 8,
+    "localizacao": "Recife",
+    "saude": {
+      "esterilizado": false,
+      "vacinado": false,
+      "desparasitado": false
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": false,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": true,
+      "hiv": false
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lila",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Fêmea",
+    "meses": 22,
+    "localizacao": "Goiânia",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": false,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 14,
+    "name": "Oliver",
+    "especie": "Gato",
+    "raca": "Ragdoll",
+    "genero": "Macho",
+    "meses": 15,
+    "localizacao": "Vitória",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": true,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 15,
+    "name": "Nina",
+    "especie": "Gato",
+    "raca": "Persa",
+    "genero": "Fêmea",
+    "meses": 12,
+    "localizacao": "Campo Grande",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": false,
+      "crianca": false,
+      "cachorro": true
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  },
+  {
+    "id": 16,
+    "name": "Felix",
+    "especie": "Gato",
+    "raca": "Indefinida",
+    "genero": "Macho",
+    "meses": 20,
+    "localizacao": "Belém",
+    "saude": {
+      "esterilizado": true,
+      "vacinado": true,
+      "desparasitado": true
+    },
+    "lidaBem": {
+      "gato": true,
+      "crianca": false,
+      "cachorro": false
+    },
+    "especial": {
+      "deficiente": false,
+      "hiv": false
+    }
+  }
+]
